@@ -1,5 +1,23 @@
 {
+  "name": "express-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihyun-pp/node-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihyun-pp/node-express/issues"
+  },
+  "homepage": "https://github.com/jihyun-pp/node-express#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "routes": "^2.1.0"
   }
 }
