@@ -1,11 +1,11 @@
 # Chapter 3
 
-# 스캐폴딩 (scaffolding)
+## 스캐폴딩 (scaffolding)
 
 -   boilerplate
 -   express-generator : https://expressjs.com/en/starter/generator.html
 
-# 메도라크 여행사 웹사이트 예제
+## 메도라크 여행사 웹사이트 예제
 
 ### app.get
 
