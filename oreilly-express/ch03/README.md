@@ -11,6 +11,8 @@
 
 -   라우트를 추가하는 메서드
 -   app.METHOD > METHOD는 HTTP 동사가 들어갈 자리 (get, post 등)
+    -   https://expressjs.com/ko/starter/basic-routing.html
+    -   라우팅은 URI(또는 경로) 및 특정한 HTTP 요청 메소드(GET, POST 등)인 특정 엔드포인트에 대한 클라이언트 요청에 애플리케이션이 응답하는 방법을 결정하는 것을 말함.
 -   경로와 함께 두 가지 매개변수를 받음
 
     1. 경로 : 라우트 > 대소문자 구분 X, 경로 끝에 슬래시가 있든 없든 똑같이 동작, 쿼리스트링 무시
