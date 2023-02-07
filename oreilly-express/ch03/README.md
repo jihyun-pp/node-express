@@ -1,7 +1,8 @@
 # Chapter 3
 
 ## 스캐폴딩 (scaffolding)
--   scaffolding : 비계, 발판이라는 의미로 루비에서 도입한 개념 > 프로젝트의 뼈대가 되는 boilerplate 코드
+
+-   boilerplate
 -   express-generator : https://expressjs.com/en/starter/generator.html
 
 ## 메도라크 여행사 웹사이트 예제
