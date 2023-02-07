@@ -18,5 +18,6 @@ afterEach(() => {
 });
 
 test("home page links to about page", async () => {
+    // eslint-disable-next-line no-unused-vars
     const browser = await puppeteer.launch();
 });
